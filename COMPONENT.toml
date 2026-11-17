@@ -3,7 +3,7 @@ name = "SigmaOS-mdns"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "mdns component"
+description = "mDNS"
 upstream = []
 
 [contract]

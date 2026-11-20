@@ -6,6 +6,7 @@
 
 use std::collections::BTreeMap;
 use std::fmt;
+pub mod sigmadnsmanager2;
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct MdnsItem {
